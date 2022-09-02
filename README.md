@@ -3,6 +3,7 @@
 ## Table of Content
 
 - [Description](#description)
+- [User Story](#user-story)
 - [Deployment](#deployment)
 - [User Story](#User-Story)
 - [Node Packages](#node-packages)
@@ -12,9 +13,11 @@
 
 Full stack Google Books API search engine using GraphQL API built with Apollo Server. This app is created using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
-##
+## Deployment
 
-[heroku deployment](https://still-ridge-22361.herokuapp.com/)
+Heroku deployment: https://still-ridge-22361.herokuapp.com/
+
+Github : https://github.com/zahrahaji10/books-api-search-engine/tree/dev
 
 ## User Story
 
