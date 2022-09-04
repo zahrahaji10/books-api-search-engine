@@ -3,9 +3,9 @@
 ## Table of Content
 
 - [Description](#description)
-- [User Story](#user-story)
 - [Deployment](#deployment)
-- [User Story](#User-Story)
+- [User Story](#user-story)
+- [Run Application](#run-application)
 - [Node Packages](#node-packages)
 - [Questions](#questions)
 
@@ -75,6 +75,16 @@ THEN I am logged out of the site and presented with a menu with the options Sear
     - react-dom: "^16.13.1",
     - react-router-dom: "^6.2.1",
     - react-scripts
+
+## Run Application
+
+```
+$ git clone git@github.com:zahrahaji10/books-api-search-engine.git
+$ cd books-api-search-engine
+$ npm i
+$ npm start:server
+$ npm start:client
+```
 
 ## Server Dependencies
 
